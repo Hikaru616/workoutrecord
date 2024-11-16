@@ -83,6 +83,6 @@
       <div class="d-flex justify-content-center mt-3">
         {{ $all_records->links() }}
       </div>
-      
+
     </div>
 @endsection
